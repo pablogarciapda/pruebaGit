@@ -1,0 +1,26 @@
+{
+    "explorer.openEditors.visible": 0,
+    "editor.snippetSuggestions": "top",
+    "emmet.showAbbreviationSuggestions": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": false,
+    "workbench.colorTheme": "Seti Black",
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize":16,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize":10,
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Anonymous Pro",
+    "editor.tabSize": 2,
+    "editor.lineHeight": 0,
+    "markdown.preview.fontSize": 36,
+    "editor.minimap.enabled": false,
+    "eslint.enable": true,
+    
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.suggestSelection": "first",
+    "workbench.sideBar.location": "right",
+
+}
