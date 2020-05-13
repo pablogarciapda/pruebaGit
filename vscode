@@ -5,22 +5,32 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": false,
     "workbench.colorTheme": "Seti Black",
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontSize":16,
-    "editor.fontLigatures": true,
+    
     "terminal.integrated.fontFamily": "monospace",
     "terminal.integrated.fontSize":10,
     "files.autoSave": "onFocusChange",
-    "editor.fontFamily": "Anonymous Pro",
+    "editor.fontFamily": "'Fira Code', 'Anonymous Pro'",
+    "editor.fontLigatures": true,
     "editor.tabSize": 2,
     "editor.lineHeight": 0,
     "markdown.preview.fontSize": 36,
     "editor.minimap.enabled": false,
     "eslint.enable": true,
-    
+    "editor.formatOnSave": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 120,
+    "editor.codeActionsOnSave": null,
     "workbench.startupEditor": "newUntitledFile",
     "editor.suggestSelection": "first",
     "workbench.sideBar.location": "right",
+    "vetur.completion.scaffoldSnippetSources": {
+    
+    },
 
 }
